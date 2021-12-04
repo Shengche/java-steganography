@@ -4,3 +4,14 @@ secret*
 .DS_Store
 info
 text
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store/
+
+# Maven
+log/
+target/
